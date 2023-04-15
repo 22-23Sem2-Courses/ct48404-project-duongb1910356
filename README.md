@@ -1,9 +1,15 @@
-# myshop
+# Project học phần PTUD Di động (CT484)
 
-Bài tập thực hành CT484, HK2 2022-2023
+Học kỳ 2, Năm học 2022-2023
 
-**MSSV**: ...
+MSSV 1 : B1910356
 
-**Họ tên SV**: ...
+Họ tên SV 1: Trần Quốc Dương
 
-**Nhóm học phần**: ...
+MSSV 2: B1910370
+
+Họ tên SV 2: Bùi Lê Nhựt Hào
+
+Lớp học phần: CT484
+
+Tên dự án: App Chat
